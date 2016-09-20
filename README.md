@@ -6,6 +6,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Push Notifications
 - [Ti.CloudPush](http://docs.appcelerator.com/platform/latest/#!/api/Modules.CloudPush) - Module by appcelerator to receive pushes
 - [Ti.Goosh](https://github.com/caffeinalab/ti.goosh) - Receiving push notifications on Android
+- [UrbanAirship](https://bintray.com/urbanairship/titanium/titanium-module#) - Urban Airship Integration.
 
 ## Image handling
 - [Ti.ImageFactory](https://github.com/appcelerator-modules/ti.imagefactory) - Resize, crop and more image manipulation 
@@ -24,15 +25,20 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [Ti.GA](https://github.com/benbahrenburg/Ti.GA) - Google Analytics
 - [ti.flurry](https://github.com/appcelerator-archive/ti.flurry) - Flurry (crash)analytics module by Appcelerator
 
+## Social Media
+- [TiSocial](https://github.com/viezel/TiSocial.Framework) - Facebook, Twitter and Sina Weibo integrations
 
 ## HTTP clients
 - [XHR.js](https://github.com/raulriera/XHR) - Great and simple way to execute HTTP calls
 - [RESTe](https://github.com/jasonkneen/RESTe) - Another great way to execute HTTP calls and populate collections on the fly
+- [net.iamyellow.tiws](https://github.com/omorandi/tiws) - Native WebSockets
 
 ## Other
 - [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
 - [de.marcelpociot.autofocus](https://github.com/mpociot/TiAndroidAutofocus) - No auto focus on textfields on Android anymore
 - [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
+- [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
+- [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations. 
