@@ -27,11 +27,13 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Social Media
 - [TiSocial](https://github.com/viezel/TiSocial.Framework) - Facebook, Twitter and Sina Weibo integrations
+- [Ti.Facebook](http://docs.appcelerator.com/platform/latest/#!/api/Modules.Facebook) - Facebook module by Appcelerator
 
 ## HTTP clients
 - [XHR.js](https://github.com/raulriera/XHR) - Great and simple way to execute HTTP calls
 - [RESTe](https://github.com/jasonkneen/RESTe) - Another great way to execute HTTP calls and populate collections on the fly
 - [net.iamyellow.tiws](https://github.com/omorandi/tiws) - Native WebSockets
+- [Ti.HTTPS](http://docs.appcelerator.com/platform/latest/#!/api/Modules.Https) - HTTPS security module by Appcelerator (Team+ licsense)
 
 ## Other
 - [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
