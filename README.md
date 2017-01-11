@@ -41,6 +41,10 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
 - [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
 - [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
+- [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
+- [ti.paint](https://github.com/appcelerator-archive/ti.paint) - Module by Appcelerator to paint on the window
+- [ti.paypal](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
+- [ti.paypal](https://github.com/hansemannn/ti.paypal) - iOS module for PayPal
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations. 
