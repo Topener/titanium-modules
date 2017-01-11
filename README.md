@@ -48,6 +48,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
 - [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel
 - [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu
+- [nl.fokkezb.form](https://github.com/FokkeZB/nl.fokkezb.form) - Alloy TableView Form Widget
 
 ## Database
 - [ti.loki](https://github.com/ianko/ti-loki) - LokiJS Database
