@@ -49,13 +49,15 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel
 - [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu
 - [nl.fokkezb.form](https://github.com/FokkeZB/nl.fokkezb.form) - Alloy TableView Form Widget
+- [ti.keyframes ios](https://github.com/hansemannn/ti.keyframes) - Ti.Keyframes module for Facebook KeyFrames. 
+- [ti.keyframes android](https://github.com/m1ga/ti.keyframes) - Ti.Keyframes module for Facebook KeyFrames. 
 
 ## Database
 - [ti.loki](https://github.com/ianko/ti-loki) - LokiJS Database
 
 ## Payment
-- [ti.paypal](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
-- [ti.paypal](https://github.com/hansemannn/ti.paypal) - iOS module for PayPal
+- [ti.paypal android](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
+- [ti.paypal ios](https://github.com/hansemannn/ti.paypal) - iOS module for PayPal
 
 ## Other
 - [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
