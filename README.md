@@ -35,6 +35,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [RESTe](https://github.com/jasonkneen/RESTe) - Another great way to execute HTTP calls and populate collections on the fly
 - [net.iamyellow.tiws](https://github.com/omorandi/tiws) - Native WebSockets
 - [Ti.HTTPS](http://docs.appcelerator.com/platform/latest/#!/api/Modules.Https) - HTTPS security module by Appcelerator (Team+ license)
+- [ti.firebase](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) - Firebase integration for communication with Firebase backend
 
 ## Other
 - [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
