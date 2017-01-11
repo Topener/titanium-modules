@@ -37,16 +37,24 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [Ti.HTTPS](http://docs.appcelerator.com/platform/latest/#!/api/Modules.Https) - HTTPS security module by Appcelerator (Team+ license)
 - [ti.firebase](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) - Firebase integration for communication with Firebase backend
 
-## Other
-- [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
+## Ads
+- [Ti.Admob](https://github.com/appcelerator-modules/ti.admob) - Admob intagration by Appcelerator
+
+## Utils
 - [de.marcelpociot.autofocus](https://github.com/mpociot/TiAndroidAutofocus) - No auto focus on textfields on Android anymore
-- [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
 - [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
-- [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
-- [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
 - [ti.paint](https://github.com/appcelerator-archive/ti.paint) - Module by Appcelerator to paint on the window
+
+## Payment
 - [ti.paypal](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
 - [ti.paypal](https://github.com/hansemannn/ti.paypal) - iOS module for PayPal
+
+## Other
+- [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
+- [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
+- [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
+- [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
+
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations. 
