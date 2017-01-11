@@ -49,6 +49,8 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel
 - [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu
 
+## Database
+- [ti.loki](https://github.com/ianko/ti-loki) - LokiJS Database
 
 ## Payment
 - [ti.paypal](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
