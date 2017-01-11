@@ -42,9 +42,13 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Utils
 - [de.marcelpociot.autofocus](https://github.com/mpociot/TiAndroidAutofocus) - No auto focus on textfields on Android anymore
-- [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
 - [ti.paint](https://github.com/appcelerator-archive/ti.paint) - Module by Appcelerator to paint on the window
+
+## Layout
+- [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar
 - [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel
+- [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu
+
 
 ## Payment
 - [ti.paypal](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal
@@ -62,4 +66,4 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [nl.fokkezb.infiniteScroll](https://github.com/FokkeZB/nl.fokkezb.infiniteScroll) - Paging in ListViews/TableViews
 - [nl.fokkezb.pullToRefresh](https://github.com/FokkeZB/nl.fokkezb.pullToRefresh) - Pull to refresh for ListViews/TableViews
 - [ti.searchbar](https://github.com/caffeinalab/ti.searchbar) - Searchbar
-- [nl.fokkezb.drawer](https://github.com/FokkeZB/nl.fokkezb.drawer) - Napp Drawer widget implementation
+- [nl.fokkezb.drawer](https://github.com/FokkeZB/nl.fokkezb.drawer) - Napp Drawer and Ti.DrawerLayout widget implementation
