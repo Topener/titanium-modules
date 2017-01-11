@@ -7,7 +7,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [Ti.CloudPush](http://docs.appcelerator.com/platform/latest/#!/api/Modules.CloudPush) - Module by appcelerator to receive pushes
 - [Ti.Goosh](https://github.com/caffeinalab/ti.goosh) - Receiving push notifications on Android
 - [UrbanAirship](https://bintray.com/urbanairship/titanium/titanium-module#) - Urban Airship Integration.
-- [PUushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
+- [PushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
 
 ## Image handling
 - [Ti.ImageFactory](https://github.com/appcelerator-modules/ti.imagefactory) - Resize, crop and more image manipulation 
