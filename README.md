@@ -64,7 +64,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
 - [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
 - [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
-
+- [ti.inappbilling](https://github.com/appcelerator-archive/ti.inappbilling) - InAppBilling Android
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations. 
