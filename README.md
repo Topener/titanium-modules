@@ -6,8 +6,11 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Push Notifications
 - [Ti.CloudPush](http://docs.appcelerator.com/platform/latest/#!/api/Modules.CloudPush) - Module by appcelerator to receive pushes
 - [Ti.Goosh](https://github.com/caffeinalab/ti.goosh) - Receiving push notifications on Android
+- [GCMPush](https://github.com/morinel/gcmpush) - Titanium Module for Android Push
 - [UrbanAirship](https://bintray.com/urbanairship/titanium/titanium-module#) - Urban Airship Integration.
 - [PushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
+- [ApiOmat](https://web.apiomat.org/dashboard/sdk/index/_selLang/TITANIUM) - ApiOmat Integration (you need an account (free) to access your customized Titanium SDK).
+
 
 ## Image handling
 - [Ti.ImageFactory](https://github.com/appcelerator-modules/ti.imagefactory) - Resize, crop and more image manipulation 
@@ -28,6 +31,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Social Media
 - [TiSocial](https://github.com/viezel/TiSocial.Framework) - Facebook, Twitter and Sina Weibo integrations
+- [SocialShare](https://github.com/ricardoalcocer/socialshare) - Share with all supported native apps configured in the device
 - [Ti.Facebook](http://docs.appcelerator.com/platform/latest/#!/api/Modules.Facebook) - Facebook module by Appcelerator
 
 ## HTTP clients
@@ -62,6 +66,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Other
 - [de.manumaticx.circularprogress](https://github.com/manumaticx/circularprogress) - Circular progress bars
 - [bencoding.alarmmanager](https://github.com/benbahrenburg/benCoding.AlarmManager) - Android Alarm manager
+- [Securely](https://github.com/benbahrenburg/Securely) - Security utilities
 - [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
 - [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
 
