@@ -10,6 +10,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [UrbanAirship](https://bintray.com/urbanairship/titanium/titanium-module#) - Urban Airship Integration.
 - [PushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
 - [ApiOmat](https://web.apiomat.org/dashboard/sdk/index/_selLang/TITANIUM) - ApiOmat Integration (you need an account (free) to access your customized Titanium SDK).
+- [OneSignal](https://github.com/williamrijksen/com.williamrijksen.onesignal) - OneSignal integration for Android & iOS.
 
 
 ## Image handling
