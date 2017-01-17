@@ -78,4 +78,4 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - [nl.fokkezb.pullToRefresh](https://github.com/FokkeZB/nl.fokkezb.pullToRefresh) - Pull to refresh for ListViews/TableViews
 - [ti.searchbar](https://github.com/caffeinalab/ti.searchbar) - Searchbar
 - [nl.fokkezb.drawer](https://github.com/FokkeZB/nl.fokkezb.drawer) - Napp Drawer and Ti.DrawerLayout widget implementation
-- [SegmentedControler](https://github.com/skypanther/SegmentedControl) - Great widget to display a custom tabbed bar
+- [SegmentedControl](https://github.com/skypanther/SegmentedControl) - Great widget to display a custom tabbed bar
