@@ -6,7 +6,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Push Notifications
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Ti.CloudPush](http://docs.appcelerator.com/platform/latest/#!/api/Modules.CloudPush) - Module by appcelerator to receive pushes (6.0 ready)
 - <img src="/images/android.png" width="20"> [Ti.Goosh](https://github.com/caffeinalab/ti.goosh) - Receiving push notifications on Android (6.0 ready)
-- <img src="/images/android.png" width="20"> [GCMPush](https://github.com/morinel/gcmpush) - Titanium Module for Android Push (6.0 ready) ******
+- <img src="/images/android.png" width="20"> [GCMPush](https://github.com/morinel/gcmpush) - Titanium Module for Android Push [(6.0 almost ready)](https://github.com/morinel/gcmpush/issues/54)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [UrbanAirship](https://bintray.com/urbanairship/titanium/titanium-module#) - Urban Airship Integration. (6.0 ready)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [PushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration (6.0 ready) ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ApiOmat](https://web.apiomat.org/dashboard/sdk/index/_selLang/TITANIUM) - ApiOmat Integration (you need an account (free) to access your customized Titanium SDK).
