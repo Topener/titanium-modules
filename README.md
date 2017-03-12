@@ -54,8 +54,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel (6.0 ready)
 - <img src="/images/android.png" width="20"> [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu (6.0 ready)
 
-- <img src="/images/ios.png" width="20"> [ti.keyframes ios](https://github.com/hansemannn/ti.keyframes) - Ti.Keyframes module for Facebook KeyFrames.
-- <img src="/images/android.png" width="20"> [ti.keyframes android](https://github.com/m1ga/ti.keyframes) - Ti.Keyframes module for Facebook KeyFrames. (6.0 ready)
+- <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.animation](https://github.com/m1ga/ti.animation) - Module for Facebook KeyFrames and AirBnB Lottie Animations. (6.0 ready)
 
 ## Database
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.loki](https://github.com/ianko/ti-loki) - LokiJS Database (6.0 ready)
