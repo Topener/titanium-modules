@@ -73,7 +73,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations.
-- [nl.fokkezb.infiniteScroll](https://github.com/FokkeZB/nl.fokkezb.infiniteScroll) - Paging in ListViews/TableViews
+- [nl.fokkezb.infiniteScroll](https://github.com/Topener/nl.fokkezb.infiniteScroll) - Paging in ListViews/TableViews
 - [nl.fokkezb.pullToRefresh](https://github.com/FokkeZB/nl.fokkezb.pullToRefresh) - Pull to refresh for ListViews/TableViews
 - [ti.searchbar](https://github.com/caffeinalab/ti.searchbar) - Searchbar
 - [nl.fokkezb.drawer](https://github.com/FokkeZB/nl.fokkezb.drawer) - Napp Drawer and Ti.DrawerLayout widget implementation
