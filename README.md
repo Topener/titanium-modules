@@ -17,6 +17,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Ti.ImageFactory](https://github.com/appcelerator-modules/ti.imagefactory) - Resize, crop and more image manipulation (6.0 ready)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [av.imageview](https://github.com/AndreaVitale/imageview) - Using content mode for displaying images (6.0 ready)
 - <img src="/images/ios.png" width="20"> [com.mfogg.squarecamera](https://github.com/mikefogg/squarecamera) - Great camera module with Barcode support
+- <img src="/images/android.png" width="20"> [in.prashant.imagepicker](https://github.com/prashantsaini1/titanium-android-imagepicker) - Multi-image select from gallery 
 
 ## Barcode scanners
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.barcode](https://github.com/appcelerator-archive/ti.barcode) - Barcode scanner by Appcelerator (6.0 ready)
