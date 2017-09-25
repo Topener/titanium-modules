@@ -53,7 +53,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Layout
 - <img src="/images/android.png" width="20"> [ActionbarExtras](https://github.com/ricardoalcocer/actionbarextras) - Manipulating the Android Actionbar (6.0 ready)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [NappDrawer](https://github.com/viezel/NappDrawer) - Side menu drawer by Viezel (6.0 ready)
-- <img src="/images/android.png" width="20"> [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu (6.0 ready)
+- <img src="/images/android.png" width="20"> [Ti.DrawerLayout](https://github.com/manumaticx/Ti.DrawerLayout) - Android Drawer Menu (6.0 ready) [obsolete: included in Ti 6.2.0]
 
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.animation](https://github.com/m1ga/ti.animation) - Module for Facebook KeyFrames and AirBnB Lottie Animations. (6.0 ready)
 
