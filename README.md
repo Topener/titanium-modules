@@ -18,6 +18,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [av.imageview](https://github.com/AndreaVitale/imageview) - Using content mode for displaying images (6.0 ready)
 - <img src="/images/ios.png" width="20"> [com.mfogg.squarecamera](https://github.com/mikefogg/squarecamera) - Great camera module with Barcode support
 - <img src="/images/android.png" width="20"> [in.prashant.imagepicker](https://github.com/prashantsaini1/titanium-android-imagepicker) - Multi-image select from gallery 
+- <img src="/images/android.png" width="20"> [Ti.VRView](https://github.com/AppWerft/Ti.VRview) - VRView (6.0 ready)
 
 ## Barcode scanners
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.barcode](https://github.com/appcelerator-archive/ti.barcode) - Barcode scanner by Appcelerator (6.0 ready)
@@ -45,6 +46,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Ads
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Ti.Admob](https://github.com/appcelerator-modules/ti.admob) - Admob intagration by Appcelerator (6.0 ready)
+- <img src="/images/android.png" width="20"> [Ti.AdBuddiz](https://github.com/m1ga/tiadbuddiz) - AdBuddiz intagration (6.0 ready)
 
 ## Utils
 - <img src="/images/android.png" width="20"> [de.marcelpociot.autofocus](https://github.com/mpociot/TiAndroidAutofocus) - No auto focus on textfields on Android anymore (6.0 ready)
@@ -63,6 +65,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 ## Payment
 - <img src="/images/android.png" width="20"> [ti.paypal android](https://github.com/AppWerft/Ti.Paypal) - Android Module for PayPal (6.0 ready)
 - <img src="/images/ios.png" width="20"> [ti.paypal ios](https://github.com/hansemannn/ti.paypal) - iOS module for PayPal
+- <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Card.io](https://github.com/arskinner/Appcelerator-CardIO) - Card.io module
 
 ## Other
 
@@ -71,6 +74,8 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - <img src="/images/ios.png" width="20"> [dk.napp.pdf.creator](https://github.com/viezel/NappPDFCreator) - iOS PDF from HTML Generator
 - <img src="/images/ios.png" width="20"> [ti.googlemaps](https://github.com/hansemannn/ti.googlemaps) - Google Maps module for iOS
 - <img src="/images/android.png" width="20"> [ti.inappbilling](https://github.com/appcelerator-archive/ti.inappbilling) - InAppBilling Android (6.0 ready)
+- <img src="/images/android.png" width="20"> [Android iBeacon Library](https://github.com/jamesfalkner/liferay-android-beacons) - Android iBeacon Library (6.0 ready)
+- <img src="/images/android.png" width="20"> [MuPDF](https://github.com/manojdcoder/titanium-mupdf) - MuPDF module (6.0 ready)
 
 ## Widgets
 - [To.BounceView](https://github.com/Topener/To.BounceView) - A Titanium View that can bounce using animations.
