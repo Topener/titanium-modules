@@ -11,6 +11,8 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [PushWoosh](https://github.com/Pushwoosh/pushwoosh-appcelerator-titanium) - PushWoosh Push integration (6.0 ready) ([ios](https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases) / [android](https://github.com/Pushwoosh/pushwoosh-android-sdk/releases) releases)
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ApiOmat](https://web.apiomat.org/dashboard/sdk/index/_selLang/TITANIUM) - ApiOmat Integration (you need an account (free) to access your customized Titanium SDK).
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [OneSignal](https://github.com/williamrijksen/com.williamrijksen.onesignal) - OneSignal integration for Android & iOS. (6.0 ready)
+- <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Countly](https://github.com/dieskim/countly-sdk-appcelerator-titanium-ios) - Count.ly Titanium Analytics, Crash and Messaging Module (6.0 ready) ([ios](https://github.com/dieskim/countly-sdk-appcelerator-titanium-ios) / [android](https://github.com/dieskim/countly-sdk-appcelerator-titanium-android))
+- <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [JPush](http://kiteplans.info/2015/04/04/appcelerator-titanium-alloy-jpush-push-notification-module-ios-and-android-china-push-notification-non-gcm/) - Titanium JPush Messaging Module (6.0 ready)
 
 
 ## Image handling
@@ -30,6 +32,7 @@ This list is maintained thanks to my backers at [Patreon. Fund me there!](https:
 
 ## Analytics
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Ti.GA](https://github.com/benbahrenburg/Ti.GA) - Google Analytics (6.0 ready)
+- <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [Countly](https://github.com/dieskim/countly-sdk-appcelerator-titanium-ios) - Count.ly Titanium Analytics, Crash and Messaging Module (6.0 ready) ([ios](https://github.com/dieskim/countly-sdk-appcelerator-titanium-ios) / [android](https://github.com/dieskim/countly-sdk-appcelerator-titanium-android)) 
 - <img src="/images/ios.png" width="20"><img src="/images/android.png" width="20"> [ti.flurry](https://github.com/appcelerator-archive/ti.flurry) - Flurry (crash)analytics module by Appcelerator (6.0 ready)
 
 ## Social Media
