@@ -2,8 +2,6 @@
 
 This list (should) contain all proper Titanium modules, preferable well documented but at least working and up-to-date. If you find a module doesn't work (anymore) or the list is missing modules, feel free to raise an issue or (even better) submit a PR!
 
-This list is maintained thanks to my backers at [Patreon. Fund me there!](https://www.patreon.com/wraldpyk)
-
 ## Push Notifications
 
 | ![ios](/images/ios.png) | ![android](/images/android.png) | Name                                                                                                                                                  | Description                                                                                                                                                                                                          |
